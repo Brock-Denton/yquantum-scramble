@@ -6,6 +6,28 @@
 
 Quantum random number generators (QRNGs) are pivotal in various applications ranging from cryptography to scientific simulations.
 
+## Pipeline
+
+CHSH and NIST have high fidelity, but we should continue hardening randomness generation. 
+
+1. Grade the Independent Quantum Device Randomizer using NIST Statistical tests and CHSH standards.
+
+2. Apply the scramble model classifier to see if it can accurately find a pattern within the expected random numbers. 
+
+3. You are left with verifiable random seeds that pass the NIST, CHSH, and trained convolutional neural network (CNN) tests.
+
+4. The device is initialized on the blockchain for traceability and insurance from future malpractice with faulty machines. 
+
+## Our Product
+
+Check it out; it's free! Minus the Quantum computer credits!! 
+
+Quantum computing is still expensive and thus needs a more significant ability to gain training data to build and improve accurate models. 
+
+We selected a simple 1D CNN to demonstrate the idea and show what a robust model can look like.
+
+https://gamma.app/docs/Quantum-Randomness-Verification--o4s9kntr3u0vdta?mode=doc 
+
 ## Components
 
 Our solution comprises several critical components that collectively ensure the reliability and efficacy of quantum-generated randomness:
