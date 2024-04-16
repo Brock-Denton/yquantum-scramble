@@ -1,6 +1,6 @@
 # yquantum-scramble
 
-**yquantum-scramble** is an innovative system designed to verify the outputs of quantum random number generators (QRNGs) and maintain a record of the machines that produced these outputs. This project aligns with our efforts to contribute to the DoraHacks challenge, focusing on classifying QRNGs by analyzing their output characteristics.
+**yquantum-scramble** is an innovative system designed to verify the outputs of quantum random number generators (QRNGs) and maintain a record of the machines that produced these outputs leading to device independence (DI-QRNGs). This project aligns with our efforts to contribute to the DoraHacks challenge, focusing on classifying QRNGs by analyzing their output characteristics.
 
 ## Background
 
