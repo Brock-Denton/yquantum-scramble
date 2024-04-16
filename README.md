@@ -26,7 +26,7 @@ Quantum computing is still expensive and thus needs a more significant ability t
 
 We selected a simple 1D CNN to demonstrate the idea and show what a robust model can look like.
 
-https://gamma.app/docs/Quantum-Randomness-Verification--o4s9kntr3u0vdta?mode=doc 
+https://qdc-solution-li9h3vh.gamma.site/
 
 ## Components
 
